@@ -1,5 +1,5 @@
 # 👽  💫 🪐 👾  🛸 💯 💥
-![](https://core.goatcounter.com/count?p)
+![Hello](https://core.goatcounter.com/count?p=/test-img)
 <!--
 **fluential/fluential** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

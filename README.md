@@ -1,6 +1,7 @@
 # 👽  💫 🪐 👾  🛸 💯 💥
-![Hello](https://core.goatcounter.com/count?p=/test-img)
-[![HitCount](http://hits.dwyl.com/fluential/fluential.svg)](http://hits.dwyl.com/fluential/fluential)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffluential%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ##  ¯\\_(ツ)_/¯
 <!--
 **fluential/fluential** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
